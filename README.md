@@ -1,5 +1,3 @@
-# signupform
-Sign Up Form
+### Sign Up Form
 
-
- [Demo here](https://may881991.github.io/signupform/)
+[Demo here](https://may881991.github.io/signupform/)
